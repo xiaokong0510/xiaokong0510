@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[我的博客](https://www.kongxiao.top/)
-[我的学习笔记]https://xiaokong0510.github.io/study-note/#/README)
+- [我的博客](https://www.kongxiao.top/)
+- [我的学习笔记](https://xiaokong0510.github.io/study-note/#/README)
 
 <!--
 **xiaokong0510/xiaokong0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
